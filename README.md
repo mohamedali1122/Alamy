@@ -1,2 +1,0 @@
-# Alamy
-Alamy123
